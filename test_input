@@ -1,0 +1,9 @@
+
+
+print("Hola este programa te ayuda a saber cual es el numero mas grande entre una serie de numeros a tu elección")
+numero_del_usuario_1=int(input("dime un numero: "))
+numero_del_usuario_2=int(input("dime otro numero: "))
+numero_del_usuario_3=int(input("dime el ultimo numero:"))
+max_num=max(numero_del_usuario_1,numero_del_usuario_2,numero_del_usuario_3)
+print("el numero mayor es {}".format(max_num))
+print("Gracias por usar nuestra aplicacion ^^")

@@ -46,3 +46,4 @@ else:
     ganador=nombre_enemigo
 
 print("El combate ha terminado, el ganador es {}".format(ganador))
+f
